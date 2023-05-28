@@ -1,6 +1,6 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Zahlul Fasya</h1>
-<h3 align="center">A passionate Student Of Malikussaleh University 🏫</h3>
+<h3 align="center">A Passionate Student Of Malikussaleh University 🏫</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fasyaatjeh&label=Profile%20views&color=0e75b6&style=flat" alt="fasyaatjeh" /> </p>
 
